@@ -1,1 +1,1 @@
-# NFSCO-Releases [Beta]
+# NFSCO-Releases
